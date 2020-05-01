@@ -1,5 +1,5 @@
 [![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.3780127.svg)](https://doi.org/10.5281/zenodo.3780127) 
-<a class="wctextlink1" href="https://www.worldcat.org/title/mova-esperanta-praktychny-dapamozhnik/oclc/654406685" title="Find this item in a library with WorldCat"><img src="http://www.oclc.org/content/dam/developer-network/badges/wc_badge1.png" width="88" height="31" alt="Some library data on this site is provided by WorldCat, the world's largest library catalog [WorldCat.org]" /></a>
+<a class="wctextlink1" href="https://www.worldcat.org/title/mova-esperanta-praktychny-dapamozhnik/oclc/654406685" title="Find this item in a library with WorldCat"><img src="http://www.oclc.org/content/dam/developer-network/badges/wc_badge1.png" width="88" height="31" target="_blank" alt="Some library data on this site is provided by WorldCat, the world's largest library catalog [WorldCat.org]" /></a>
 
 
 
