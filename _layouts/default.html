@@ -41,6 +41,47 @@
       <aside class="site-credits">
         <p>
           <small>{{ site.footerdescription }}</small>
+          <script type="application/ld+json">
+{
+   "@context": "http://schema.org/",
+   "@type":"Book",
+   "name":"Мова эсперанта",
+   "author" :{
+       "@type":"Person",
+       "name":"Адам Паўлюкавец"
+     },
+   "url":"https://esperanto.dyskurs.be/",
+   "workExample": [{
+       "@type":"Book",
+       "isbn":"5-343-00763-5",
+       "@sameAs": "https://www.wikidata.org/wiki/Q92665192"
+       "bookEdition":"",
+       "bookFormat": "http://schema.org/Paperback",
+       "potentialAction" :{
+           "@type":"ReadAction",
+           "target":{
+               "@type":"EntryPoint",
+               "urlTemplate":"https://esperanto.dyskurs.be/",
+               "actionPlatform": [
+                   "https://schema.org/DesktopWebPlatform",
+                   "https://schema.org/IOSPlatform",
+                   "https://schema.org/AndroidPlatform"
+                 ]
+               },
+           "expectsAcceptanceOf": {
+              "@type":"Offer",
+              "priceCurrency":"",
+              "price":"",
+              "eligibleRegion": {
+                   "@type":"Country",
+                   "name":"BY"
+              },
+           "availability":"https://schema.org/InStock"
+           }
+       }
+     }]
+   }
+</script>
         </p>
       </aside>
     {% endif %}
