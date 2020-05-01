@@ -4,7 +4,17 @@ title: Адам Паўлюкавец
 published: true
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Беларускі руплівец эспэранта, паэт, публіцыст, перакладчык і паліглот.
+
+Нарадзіўся ў Лунінцы ў сялянскай сям'і. 
+
+Навучаўся на французскім факультэце Мінскага дзяржаўнага педагагічнага інстытута замежных моў (сёння МДЛУ), паспяхова яго скончыў у чэрвені 1968 года.
+
+Падтрымліваў актыўную карэспандэнцыю з эсперантыстамі розных краін, у жніўні 1966 года ўдзельнічаў у сустрэчы эсперантыстаў у Балгарыі. Некалькі гадоў быў старшынёй студэнцкага клуба эсперантыстаў,  пазней атрымаў пасаду сакратара Міжнароднага саюза студэнтаў-эсперантыстаў.
+
+Аўтар беларускага падручніка “Мова эспэранта” (Мінск: Навука і тэхніка, 1992).
+
+Акрамя беларускай і рускай, свабодна валодае эсперанта, польскай, англійскай і французскай мовамі. 
 
 <figure>
   <img alt="Адам Паўлюкавец Adam Paŭliukaviec" src="/assets/images/Paŭliukaviec.jpg" />
@@ -13,6 +23,4 @@ Undoubtably one of the great minds of our time, Christopher Hitchens challenged 
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Чытаць далей і глыбей у [Вікіпедыі](https://be.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D0%B0%D1%9E%D0%BB%D1%8E%D0%BA%D0%B0%D0%B2%D0%B5%D1%86)
