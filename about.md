@@ -28,6 +28,7 @@ published: true
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
+  "@type": "Person",
   "name": "Адам Паўлюкавец",
   "sameAs": [
     "https://www.wikidata.org/wiki/Q63974444"
