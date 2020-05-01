@@ -6,6 +6,14 @@ published: true
 
 Беларускі руплівец эспэранта, паэт, публіцыст, перакладчык і паліглот.
 
+<figure>
+  <img alt="Адам Паўлюкавец Adam Paŭliukaviec" src="/assets/images/Paŭliukaviec.jpg" />
+  <figcaption>
+     Адам Паўлюкавец (Adam Paŭliukaviec)
+  </figcaption>
+</figure>
+
+
 Нарадзіўся ў Лунінцы ў сялянскай сям'і. 
 
 Навучаўся на французскім факультэце Мінскага дзяржаўнага педагагічнага інстытута замежных моў (сёння МДЛУ), паспяхова яго скончыў у чэрвені 1968 года.
@@ -16,12 +24,7 @@ published: true
 
 Акрамя беларускай і рускай, свабодна валодае эсперанта, польскай, англійскай і французскай мовамі. 
 
-<figure>
-  <img alt="Адам Паўлюкавец Adam Paŭliukaviec" src="/assets/images/Paŭliukaviec.jpg" />
-  <figcaption>
-     Адам Паўлюкавец (Adam Paŭliukaviec)
-  </figcaption>
-</figure>
+
 
 Чытаць далей і глыбей у [Вікіпедыі](https://be.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D0%B0%D1%9E%D0%BB%D1%8E%D0%BA%D0%B0%D0%B2%D0%B5%D1%86).
 
