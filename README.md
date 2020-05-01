@@ -1,3 +1,5 @@
+[![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.3780127.svg)](https://doi.org/10.5281/zenodo.3780127)
+
 # bel.esperanto
 ## Кніга А.А.Паўлюкаўца «Мова Эсперанта».
 
