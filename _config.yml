@@ -43,6 +43,7 @@ markdown: kramdown
 logo: "https://esperanto.dyskurs.be/assets/images/icon-512.png"
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 50
 paginate_path: "/page/:num/"
