@@ -1,4 +1,7 @@
 ---
+date: 2020-03-15
+author: Максим Севелев-Дубровник
+image: "https://esperanto.dyskurs.be/2018/06/05/11.html"
 layout: post
 title: Адам Паўлюкавец
 published: true

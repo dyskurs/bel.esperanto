@@ -1,4 +1,6 @@
 ---
+author: Максім Севелеў-Дуброўнік
+image: "https://esperanto.dyskurs.be/2018/06/05/11.html"
 title: Галоўная
 layout: home
 published: true
