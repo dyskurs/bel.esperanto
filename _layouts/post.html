@@ -45,7 +45,7 @@ published: true
   
   <div class="post-meta" >
     {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
+      <div itemprop="author" style="color:white;">{{ page.author }}</div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="color:white;">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
